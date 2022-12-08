@@ -1,0 +1,1 @@
+[{"distribution": "fixed", "threads": 50, "connections": 100, "duration": 60, "script": "compose-post.lua", "url": "http://10.124.0.2:31111/wrk2-api", "rps": 1000}]
